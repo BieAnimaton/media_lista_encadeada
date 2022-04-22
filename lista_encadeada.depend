@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650563634 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\exercícios\exercícios programa das médias\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
